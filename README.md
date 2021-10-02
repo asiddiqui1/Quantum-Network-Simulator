@@ -6,6 +6,7 @@ Dependencies
 * numpy
 * NetworkX 2.1+
 * matplotlib  
+  
 Running
 * pip install -r requirements.txt
 * python qns/qns.py
